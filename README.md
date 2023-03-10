@@ -1,6 +1,7 @@
 # texteditor
 
 Python Text Editor
+
 This is a simple text editor built using Python's tkinter module. It allows users to create new files, open existing files, save files, change font and font size, and change text color. It also includes standard edit commands such as cut, copy, and paste.
 
 
