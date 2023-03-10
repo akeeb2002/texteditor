@@ -4,8 +4,6 @@ Python Text Editor
 
 This is a simple text editor built using Python's tkinter module. It allows users to create new files, open existing files, save files, change font and font size, and change text color. It also includes standard edit commands such as cut, copy, and paste.
 
-
-
 Features
 Create new files
 Open existing files
@@ -22,3 +20,4 @@ How to use
 Clone the repository
 Run the program using python text_editor.py
 Use the menu or keyboard shortcuts to perform desired operations
+
